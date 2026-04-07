@@ -10,4 +10,3 @@ jobs:
     with:
       app_type: nodejs
       app_name: cart
-
